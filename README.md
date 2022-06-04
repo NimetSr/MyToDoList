@@ -1,5 +1,5 @@
 # MyToDoList Application
-This is a to-do list application where you can add or delete tasks to be performed to a task list with an additional timer feature.
+This is a to-do list application where you can add or delete tasks to be performed on a task list with an additional timer feature.
 
 ***
 
