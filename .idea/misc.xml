@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_app_background.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/ic_appicon_background.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_cat_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_todo_background.xml" value="0.1335" />
+        <entry key="app/src/main/res/drawable/ic_todoo_background.xml" value="0.112" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.36237792968750004" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17718715393134" />
+        <entry key="app/src/main/res/layout/activity_sidebar.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/activity_time.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_timer.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_tasks.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/fragment_tasks2.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/item_todo.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.1227957848275062" />
+        <entry key="app/src/main/res/layout/timer_activity.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_app.xml" value="0.14" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_app_round.xml" value="0.14" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.111" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.112" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_todo.xml" value="0.112" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_todo_round.xml" value="0.112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
